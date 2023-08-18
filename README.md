@@ -2,12 +2,12 @@ Este plugin tem por objetivo fornecer suporte à assinatura eletrônica do clien
 
 O plugin funciona de forma simples e objetiva:
 
- -> É compatível com GLPI 10
- -> Gera um QRCODE a partir do chamado técnico aberto;
- -> A leitura é feita pelo smartphone do cliente;
- -> A autenticação é transparente e segura, pois utiliza os tokens da API do GLPI;
- -> O cliente assina na tela do próprio smartphone e ao confirmar o processo a assinatura é adicionado como follow-up no call;
- -> As informações inseridas no follow-up são:
+ <br>-> É compatível com GLPI 10
+ <br>-> Gera um QRCODE a partir do chamado técnico aberto;
+ <br>-> A leitura é feita pelo smartphone do cliente;
+ <br>-> A autenticação é transparente e segura, pois utiliza os tokens da API do GLPI;
+ <br>-> O cliente assina na tela do próprio smartphone e ao confirmar o processo a assinatura é adicionado como follow-up no call;
+ <br>-> As informações inseridas no follow-up são:
   ---> Data e horário da assinatura;
   ---> Localização (latitude e longitude);
   ---> Link para visualização pelo Google Maps;
