@@ -6,7 +6,7 @@ O plugin funciona de forma simples e objetiva:
  <br>-> Gera um QRCODE a partir do chamado técnico aberto;
  <br>-> A leitura é feita pelo smartphone do cliente;
  <br>-> A autenticação é transparente e segura, pois utiliza os tokens da API do GLPI;
- <br>-> O cliente assina na tela do próprio smartphone e ao confirmar o processo a assinatura é adicionado como follow-up no call;
+ <br>-> O cliente assina na tela do próprio smartphone e ao confirmar o processo a assinatura é adicionado como follow-up no chamado;
  <br>-> As informações inseridas no follow-up são:
  <br> ---> Data e horário da assinatura;
  <br> ---> Localização (latitude e longitude);
