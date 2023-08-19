@@ -1,55 +1,41 @@
 <root>
       <name>Tar Signature</name>
-      <key>example</key>
+      <key>TarSignature</key>
       <state>stable</state>
-      <logo>https://raw.githubusercontent.com/pluginsGLPI/example/master/misc/logo.png</logo>
+      <logo>https://sekur.com.br/img/logo.png</logo>
       <description>
          <short>
-            <cs>GLPI zásuvný modul pro ukázku, užitečný jako základ pro nějaký nový</cs>
-            <en>GLPI example plugin useful to bootstrap a new one</en>
-            <fr>Plugin GLPI d'example utile pour en démarrer un</fr>
+            <pt>Plugin GLPI para assinatura eletrônica de chamados</pt>
          </short>
          <long>
-            <cs>GLPI zásuvný modul pro ukázku, užitečný jako základ pro nějaký nový, pokud z něho vycházíte, měli byste přitom upravit každou z kolonek tohoto souboru a přečíst si obsah README.md</cs>
-            <en>GLPI example plugin useful to bootstrap a new one, you should edit every field of this file, and see README.md</en>
-            <fr>Plugin GLPI d'example utile pour en démarrer un, vous devriez editer tous les champs de ce fichier, et voir README.md</fr>
+            <pt>Plugin GLPI para assinatura eletrônica de chamados</pt>
          </long>
       </description>
-      <homepage>https://github.com/pluginsGLPI/example</homepage>
-      <download>https://github.com/pluginsGLPI/example/releases</download>
-      <issues>https://github.com/pluginsGLPI/example/issues</issues>
-      <readme>https://raw.githubusercontent.com/pluginsGLPI/example/master/README.md</readme>
+      <homepage>https://github.com/sekurtecnologia/tarsignature</homepage>
+      <download>https://github.com/sekurtecnologia/tarsignature/releases</download>
+      <issues>https://github.com/sekurtecnologia/tarsignature/issues</issues>
+      <readme>https://github.com/sekurtecnologia/tarsignature/blob/main/README.md</readme>
       <authors>
-         <author>Teclib'</author>
-         <author>Indepnet</author>
+         <author>Sekur Tecnologia</author>
       </authors>
       <versions>
          <version>
-            <num>0.0.1</num>
+            <num>1.0</num>
             <compatibility>~10.0.0</compatibility>
          </version>
       </versions>
       <langs>
-         <lang>cs_CZ</lang>
-         <lang>en_GB</lang>
-         <lang>fr_FR</lang>
+         <lang>pt_BR</lang>
       </langs>
       <license>GPL v2+</license>
       <tags>
-         <cs>
-            <tag>ukázka</tag>
-         </cs>
-         <en>
-            <tag>example</tag>
-         </en>
-         <fr>
-            <tag>exemple</tag>
-         </fr>
+         <pt>
+            <tag>tarsignature</tag>
+         </pt>
       </tags>
       <screenshots>
-         <screenshot>https://raw.githubusercontent.com/pluginsGLPI/example/master/misc/screenshots/first.png</screenshot>
-         <screenshot>https://raw.githubusercontent.com/pluginsGLPI/example/master/misc/screenshots/second.png</screenshot>
-         <screenshot>https://raw.githubusercontent.com/pluginsGLPI/example/master/misc/screenshots/third.png</screenshot>
-         <screenshot>https://raw.githubusercontent.com/pluginsGLPI/example/master/misc/screenshots/fourth.png</screenshot>
+            <screenshot>https://user-images.githubusercontent.com/73944931/261800863-faa4cfb5-e127-46a6-bd00-8c1c813e7f7e.png</screenshot>
+            <screenshot>https://user-images.githubusercontent.com/73944931/261800929-e8b1e047-abc7-40e9-bf89-f346c972544b.png</screenshot>
+            <screenshot>https://user-images.githubusercontent.com/73944931/261801076-a62ac309-60b4-4ec5-a87e-fc7be74b9a80.png</screenshot>
       </screenshots>
 </root>
